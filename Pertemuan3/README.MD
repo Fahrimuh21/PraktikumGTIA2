@@ -29,7 +29,7 @@ Contoh:
 gluPerspective(40.0, (GLdouble)x/(GLdouble)y, 0.5, 20.0);
 ```
 
-![Proyeksi](Pertemuan3/Images/Proyeksi.png)
+![Proyeksi](Images/Proyeksi.png)
 
 Gambar di atas menunjukkan hasil proyeksi perspektif pada objek 3D.
 
@@ -51,7 +51,7 @@ Kubus digambar dengan:
 glutWireCube(1.0);
 ```
 
-![Kubus Berotasi](Pertemuan3/Images/KubusBerotasi.png)
+![Kubus Berotasi](Images/KubusBerotasi.png)
 
 Gambar menunjukkan kubus yang mengalami transformasi rotasi secara kontinu.
 
@@ -78,7 +78,7 @@ glPushMatrix();
 glPopMatrix();
 ```
 
-![Lengan Bergerak](Pertemuan3/Images/LenganBergerak.png)
+![Lengan Bergerak](Images/LenganBergerak.png)
 
 Konsep:
 
@@ -196,7 +196,7 @@ Artinya:
 
 ---
 
-# Kesimpula
+# Kesimpulan
 
 Dari praktikum ini dapat disimpulkan bahwa OpenGL mampu digunakan untuk membuat objek grafika 3D dengan memanfaatkan berbagai jenis transformasi.
 
