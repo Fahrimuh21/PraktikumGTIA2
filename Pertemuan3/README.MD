@@ -87,6 +87,23 @@ Konsep:
 
 ---
 
+# 3. Tangan Bergerak (Robot Arm)
+
+Pada bagian ini dibuat simulasi **Tangan robot** dengan bagian lengan robot + 5 jari robot yang bisa mengepal dan membuka:
+
+* Jari telapak
+* jari mengepal
+
+
+```
+
+![Lengan Bergerak](Images/TanganBergerak.png)
+
+Konsep:
+
+* Rotasi → semua jari ikut bergerak
+
+---
 
 # Analisis dan Pengembangan Lengan Robot
 
@@ -131,8 +148,8 @@ Konsep yang digunakan:
 
 Contoh kontrol keyboard:
 
-* `w / W` → menggerakkan telapak tangan
-* `f / F` → menggerakkan jari
+* `o` → menggerakkan telapak tangan
+* `c` → menggerakkan jari
 
 Setiap bagian tetap menggunakan **matrix stack** agar transformasi tidak saling merusak.
 
