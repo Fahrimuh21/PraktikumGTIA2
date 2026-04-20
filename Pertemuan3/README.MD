@@ -97,7 +97,7 @@ Pada bagian ini dibuat simulasi **Tangan robot** dengan bagian lengan robot + 5 
 
 ```
 
-![Lengan Bergerak](Images/TanganBergerak.png)
+![Tangan Bergerak](Images/TanganBergerak.png)
 
 Konsep:
 
