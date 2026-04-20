@@ -87,7 +87,7 @@ Konsep:
 
 ---
 
-# 3. Tangan Bergerak (Robot Arm)
+# 4. Tangan Bergerak (Robot Hands)
 
 Pada bagian ini dibuat simulasi **Tangan robot** dengan bagian lengan robot + 5 jari robot yang bisa mengepal dan membuka:
 
