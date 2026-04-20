@@ -95,7 +95,7 @@ Pada bagian ini dibuat simulasi **Tangan robot** dengan bagian lengan robot + 5 
 * jari mengepal
 
 
-```
+
 
 ![Tangan Bergerak](Images/TanganBergerak.png)
 
