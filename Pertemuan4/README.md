@@ -540,7 +540,7 @@ Program menghasilkan sebuah mobil 3D yang terdiri dari:
 
 Mobil dapat diamati dari berbagai sudut dengan menggerakkan kamera menggunakan keyboard.
 
-![Hasil Program Mobil 3D](Images/HasilMobil3D.png)
+![Hasil Program Mobil 3D](Images/Mobil3D.png)
 
 ---
 
